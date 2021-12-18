@@ -1,0 +1,16 @@
+/***********************************tag selectors****************************/
+  body {background-color: lightcyan;}
+  h1 {color: darkcyan;}
+  h2 {color: darkcyan;}
+  h3 {color: #357EC7;}
+  hr {
+      border-color: grey;
+      border-style: none;
+      border-top-style: dotted;
+        border-width:7px;
+      width:60px;
+     }
+/***********************************class selectors****************************/
+.button:hover{
+  background-color: green;
+}
